@@ -1,4 +1,4 @@
-package es.stemgranada.practicatestcalculadora;
+package es.stemgranada.practicaTestCalculadora;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
