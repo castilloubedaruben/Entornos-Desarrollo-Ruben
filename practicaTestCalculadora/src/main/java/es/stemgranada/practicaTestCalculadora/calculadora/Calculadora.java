@@ -1,4 +1,4 @@
-package es.stemgranada.ed.testing.calculadora;
+package es.stemgranada.practicaTestCalculadora.calculadora;
 
 /**
  * Clase que proporciona operaciones matemáticas básicas y utilidades

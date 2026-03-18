@@ -1,4 +1,4 @@
-package es.stemgranada.ed.testing.texto;
+package es.stemgranada.practicaTestCalculadora.texto;
 
 public class ProcesadorTexto {
 

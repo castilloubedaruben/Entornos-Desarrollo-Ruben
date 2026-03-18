@@ -1,4 +1,4 @@
-package es.stemgranada.ed.testing.validacion;
+package es.stemgranada.practicaTestCalculadora.validacion;
 
 public class ValidadorEdad {
 

@@ -1,4 +1,4 @@
-package es.stemgranada.ed.testing.matematica;
+package es.stemgranada.practicaTestCalculadora.matematica;
 
 public class CalculadoraDescuentos {
 
